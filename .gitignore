@@ -33,9 +33,3 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
-
-private/
-keys.py
-Vagrantfile
-viagra.sh
-requirements.txt
