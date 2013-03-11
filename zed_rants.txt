@@ -1,0 +1,107 @@
+Old Essays
+
+These are essays I wrote a while back and have here for historical purposes. I don't write here anymore, and you should go to sheddingbikes.com for where I do most of my tech writing.
+
+Programmers Need To Learn Statistics Or I Will Kill Them All
+
+I have a major pet peeve that I need to confess. I go insane when I hear programmers talking about statistics like they know shit when it's clearly obvious they do not. I've been studying it for years and years and still don't think I know anything. This article is my call for all programmers to finally learn enough about statistics to at least know they don't know shit. I have no idea why, but their confidence in their lacking knowledge is only surpassed by their lack of confidence in their personal appearance.
+
+Is BSD The New GPL?
+
+It seemed people who support the BSD license assumed that I was saying the BSD license was bad because I said I use the GPL these days. I never said BSD was bad, I just said I use the GPL now when I release my software. The BSD license is just fine, if that’s what you want to use.
+
+Ragel State Charts
+
+The Ragel State Machine Compiler is one kick-ass piece of software by Adrian Thurston that I’ve been using for about a year now. What Ragel does is use a mixture of C/C++/D/Java code and a state machine specification to produce a functioning state machine. Using Ragel you can process text for network protocols, program logic, programming languages, parsers, etc.
+
+Why I (A/L)GPL
+
+In the Python world the GPL is frequently frowned on, with most people preferring to use a more permissive license such as BSD, MIT, or Python’s. It’s understandable then when people get angry because I’ve licensed Lamson under the GPL. Many people just hate the license, since they feel it goes contrary to the spirit of Python.
+
+What Happened To The Freehackers Union?
+
+It looks like my Freehackers Union essay got some attention again on Hacker News and I thought it’d be a good time to figure out for myself what I did that made FU die out. It was a hell of a fun attempt at upsetting the status quo, but alas, it failed. Not miserably at least, since that essay and the website still get posted to geek websites sometimes.
+
+I’d Like Thomas Ptacek To Apologize Please
+
+At about 1:04 in this talk by Thomas Ptacek he says:
+
+The Impermanence, Karma, and Bad Behavior of Why The Lucky Stiff
+
+Well, looks like Jonathan aka _why erased everything he’d worked on with absolutely no notice. My first reaction was that he got hurt or was in trouble, so I contacted a couple folks who might know him and asked. Nobody knew.
+
+Rubrics And The Bimodality Of 1–5 Ratings
+
+I’m working on a fun new project called Fret War these days as a way to merge my love for playing guitar with my love of writing software. The concept is simple: Guitarists learn to play a difficult piece of music based on a theme, players and fans rate the quality of their submissions. In order for Fret War to work though, I needed to create a rating system that fought the bimodal trend of most other 1–5 rating systems out there using some different statistics.
+
+A Few Interesting Ratings System Observations
+
+I’m currently crunching some preliminary numbers from the Fret War rating system experiment. If you haven’t read it, here’s the blog post about how I’m doing Fret War’s ratings. It covers mostly the stats and code behind it, not really the social impact.
+
+Maxipads Are Better Than iPads
+
+I am about as interested in the iPad as I am in Maxipads. I’m not against them, I’m actually quite for them. I understand that a large majority of the population probably prefers Maxipads. Another group probably hates them. There’s probably discussions about the benefits of Maxipads vs. Minipad vs. Tampons. I don’t think about them. I don’t plan on buying any unless someone asks real nicely. I just really don’t need any Maxipads or even think about them since, you know, I have a penis and shit.
+
+Yeah, Don’t Move To NYC To Do Your Startup (Yet)
+
+Let me tell you a little story my people. I had a friend of a friend get me in contact with a guy who ran a small NYC hedge fund. This guy was very nice and very professional and had an interesting idea he’d already implemented and which was making his fund fairly wealthy. What he wanted me to do was recreate the web site in Ruby on Rails.
+
+Curing Python’s Neglect
+
+I’ve been working hard on the 0.9 release of Lamson and really enjoying myself while I do. Python is a great very complete and solid language with probably the best email handling capabilities I’ve ever seen.
+
+Can A Musician Sell Their Music Online?
+
+I recently started working on ideas for a blogging platform specifically for musicians (and maybe other artists). Most musicians I know want to have an independent web site for their works, but have no idea how to go about it. The few that do understand what it takes to make a website know next to nothing about online promotion and getting their message out. Many times musicians rely on MySpace as their web site, since just about every other musician is there. A few use twitter to keep in touch with fans. Yet, despite all that, I haven’t really found an easy piece of technology that provides musicians with specifically what they need.
+
+An Album Is A Social Ontology
+
+UPDATE: Looks like the BBC already has a bunch of data just like this and there’s even a mailing list for Music Ontology for people to join. Thanks to danbri for the pointer.
+
+The Semantic Web and The Quilombo
+
+I study a Brazilian martial art called Capoeira that was practiced by Brazil’s slave population for about 400 years. It is said to have originated in Angola~~~~from which most Brazilian slaves were kidnapped~~~~and the martial art is full of songs which tell a story of rebellion and oppression. One of the main stories is of a hero named Zumbi who fought against the ruthless Portuguese land owners and founded a hide-out in the Amazon jungle called a “quilombo”. During Brazil’s slave period men like Zumbi and their quilombos (which had grown in number over the years) fought a guerrilla war against the Portuguese and finally the slaves overthrew their slave masters using Capoeira to forge modern Brazil.
+
+The Freehacker’s Union
+
+This rant is about an idea I have for a group of geeks who fight to keep the art of hacking and invention alive. I want to call it The Freehacker’s Union. I want it to be against business, against the coopting and destruction of geek culture, and for preserving hacking and invention as methods of personal artistic expression.
+
+Stackish — An XML Alternative
+
+I was checking out some of the XML Alternatives that PaulT maintains and was laughing at some of the proposals. I decided to throw my own ridiculous and charming hat into the ring of fools with the Stackish XML Alternative. This XML alternative is radically different since it writes the exact same stuff you get from an s- expr or XML document, but does it the way a stack language like FORTH, Onyx, and Joy would. This has a few advantages, but the main thing is that it beats the Lisp and Scheme whiners at their own game by being even more concise and having two additional features that s-expr don’t have.
+
+x=Control, y=Responsibility: A Simple Principle For Managing Smarties
+
+Someone once asked me if I could give one bit of advice to an aspiring manager what would it be. At first I said, “Go kill yourself.” But then I remembered how hard it was for me at first leading a platoon at 18 in Army basic training. Instead, this is the one piece of advice I’d like to give every aspiring manager:
+
+The C2I2 Hypothesis
+
+I’ve worked in many different industries writing software, mostly for internal applications but a few external commercial systems as well. Most of my projects have been of mixed success, but I’ve been very good at killing off obviously dead projects before they cost tons of money and wasted effort. “Paranoid” is probably the best word to describe my approach to risk analysis for projects. At the first hint of trouble I start looking for failure causes, and if I can’t get rid of them I either kill the project myself or push heavily for its destruction.
+
+The Master, The Expert, The Programmer
+
+I spent most of my high school years living on Guam trying to stay alive long enough to leave and start a new life. It wasn’t a good time for me, and about the only good thing that came out of it was I started studying martial arts. These days I’m a lazy bastard, but back in the day I studied everything I could get my hands on. It was rough, but I came out of it fine and I’ve since used my knowledge of martial arts in just about everything I’ve done. Each one I studied taught me something different. Capoeira taught me that being balanced is more about being able to adapt and flex than root your stance. Aikido taught me that attacking a problem directly is rarely the solution. Muay Thai taught me that destroying the base will destroy the building. I studied Muay Thai, Ninjitsu, Wing Tsung, Judo, various weapons, and even spent a year getting the crap beat out of me by some rough sword fighters in the SCA. Unfortunately I never studied anything long enough to be considered very good at it. I just took what I found and moved on to the next interesting thing. What does this have to do with programming?
+
+A Rubric For IT Analysis Papers
+
+After writing a few articles on using statistics to analyze computer systems I thought I should write down a simple rubric for evaluating studies found in the IT world. This is just a small set of the most common errors I find in performance analysis papers, capacity planning papers, and just about anything put out by the IT industry.
+
+Fortune Favors Big Turds
+
+Donald Norman and Joel Spolsky both had their say on how you can’t sell simple software. It’s my turn to say they’re wrong because they adopt an obnoxiously true-or-false stance based on horrible examples. The situation they’re discussing is too complex to fit into a single blog post and I’m not gonna try to convince you that complexity or simplicity is better. I believe you can do both simultaneously.
+
+There’s No ‘W’ In Coffee Dammit
+
+New York is a very funny place. The people are really nice, if a bit “in your face” about things, but I really like that. It was annoying living in Vancouver, BC and having those two-faced bastards act like they are your best friends and then do some passive aggressive asshole maneuver behind your back. Man those folks are weird. At least New Yorkers are honest about how they feel about you, whether you like it or not.
+
+Indirection Is Not Abstraction
+
+I hate using badly designed APIs. I hate it even more when someone beats me over the head with words they were handed in some rhetoric class masquerading as a computer science course. Words like “abstract”, “pattern”, and “object oriented” are used like a shield to protect the implementer from critical words like “crap”, “complicated”, “obtuse”, and “annoying”. It’s even worse when the implementer realizes that if he implements the most complicated piece of shit possible then he can go rogue consultant and make tons of mad cash helping poor unsuspecting companies implement his steaming pile of bullshit. Harsh words? You bet. But I’m fed up with people imposing their faulty definitions and ideas on me without any way for me to easily fight back with a reasonable explanation as to why their crap is steaming. I’ve decided to start fighting back by coming up with a set of essays about programming that highlight common design misconceptions. This essay is about my top pet peeve: an abstract interface and an indirect interface are entirely different things.
+
+I Want The Mutt Of Feed Readers
+
+I was using Liferea for a while. That is until Liferea decided to start randomly opening links I’d click on in an infinite loop filling my browser with thousands of tabs until my browser crashed. How do you fuck that up? It’s simple: click, fucking run firefox, go back to being a reader. How do you have a fucking loop in there? Probably some idiotic GTK event handling causing me to want to strangle a puppy in revenge.
+
+The KitchenSink Language
+
+I’ve started getting into language design more these days, and have several language related projects. While I’m far from a real language creator like this poetic guy, this gawky guy, this dude from Nippon, and this really anal guy who should have stayed a physicist, I do like it as a hobby.

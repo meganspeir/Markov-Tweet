@@ -1,0 +1,6 @@
+# Keys from Twitter Developer Account (do not commit)
+# Put your keys into this file and rename the file to "keys.py"
+key_consumer_key='<key>',
+key_consumer_secret='<key>',
+key_access_token_key='<key>',
+key_access_token_secret='<key>')
